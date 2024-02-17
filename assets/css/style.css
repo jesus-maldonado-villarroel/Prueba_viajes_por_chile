@@ -1,9 +1,15 @@
+body{
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+}
+
 .container{
     display: flex;
     
 }
 p{
     text-align: justify;
+    color: white;
 }
 form {
     position: relative;
@@ -28,5 +34,26 @@ footer{
     margin: auto;
 }
 .piepagina{
+    color: white;
+}
+#quienes{
+    background: black;
+}
+h1{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+
+}
+#Destacado{
+    background: black;
+}
+.card-body{
+    background: #00aae4;
+}
+.contacto{
+    background: black;
+}
+label{
     color: white;
 }
