@@ -10,6 +10,8 @@ body{
 p{
     text-align: justify;
     color: white;
+    margin-bottom: 28px;
+    line-height: 22px;
 }
 form {
     position: relative;
@@ -51,7 +53,7 @@ h1{
 .card-body{
     background: #00aae4;
 }
-.contacto{
+#contacto{
     background: black;
 }
 label{
