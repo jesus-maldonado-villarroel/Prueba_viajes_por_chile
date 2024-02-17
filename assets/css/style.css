@@ -14,5 +14,19 @@ footer{
     padding: 20px 10px;
     width: auto;
     background: #00aae4;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+    padding: 45px 0px;
+
 }
 
+.box{
+    font-size: 40px;
+    color: white;
+    margin: auto;
+}
+.piepagina{
+    color: white;
+}
