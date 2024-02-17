@@ -12,6 +12,14 @@ p{
     color: white;
     margin-bottom: 28px;
     line-height: 22px;
+    
+}
+.t1{
+    text-align: justify;
+    color: white;
+    margin-bottom: 28px;
+    line-height: 22px;
+    margin: 50px;
 }
 form {
     position: relative;
@@ -58,4 +66,24 @@ h1{
 }
 label{
     color: white;
+}
+
+.box{
+    background: #00aae4;
+    width: 500px;
+}
+.card{
+    margin: 50px;
+    width: 140%;
+    display: block;
+    border: white;
+
+}
+.card-img-top{
+    width: 140%;
+    display: block;
+}
+.card-body{
+    width: 140%;
+    display: block;
 }
